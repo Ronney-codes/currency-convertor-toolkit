@@ -193,7 +193,7 @@ The result is printed to the console.
 Input is taken using scanf() and displayed with printf().
 
 6. AI prompt journal
-For the broader prompts, i have placed them in the prompt.md file
+For the broader prompts, i have placed them in the prompt.md file .
 
 
 7. Common Issues & Fixes
