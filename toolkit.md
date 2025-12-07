@@ -1,5 +1,8 @@
 Currency Converter Toolkit (C Programming)
+
+
 1. Title & Objective
+
 Technology Choice:
 
 C Programming Language
@@ -27,6 +30,8 @@ converts between a few predefined currencies
 displays the final converted value
 
 2. Quick Summary of the Technology
+
+
 Definition:
 
 C is a general-purpose, procedural programming language used for system programming, embedded systems, performance-critical applications, and foundational software such as operating systems.
@@ -48,6 +53,7 @@ Real-World Example:
 MySQL Database Engine — one of the world’s most popular databases — is written primarily in C and C++, showing how reliable and performance-focused C is.
 
 3. System Requirements
+
 Operating System:
 
 Windows 10/11
@@ -89,6 +95,7 @@ Dependencies:
 None (standard C libraries only).
 
 4. Installation & Setup Instructions
+
 Windows (Using MinGW + VS Code)
 Step 1: Install MinGW
 
@@ -126,6 +133,7 @@ Step 4: Open Project in VS Code
 code .
 
 5. Minimal Working Example (MWE)
+
 📌 Code Block (src/main.c)
 #include <stdio.h>
 
@@ -192,8 +200,40 @@ The result is printed to the console.
 
 Input is taken using scanf() and displayed with printf().
 
+
 6. AI prompt journal
+
+
 For the broader prompts, i have placed them in the prompt.md file .
+
+AI helped me improve my clarity and productivity in many areas of developing my code:
+          1. Code Guidance
+
+AI helped write boilerplate C code quickly, e.g., reading user input, using switch-case for menu options.
+
+Saved time avoiding syntax errors by suggesting correct code structure.
+
+          2. Debugging Assistance
+
+AI pointed out common errors like using uninitialized variables or wrong data types.
+
+Explained why “nothing to commit” happens in Git and how to fix it, keeping project workflow smooth.
+
+           3. Concept Clarification
+
+Clarified C programming concepts such as input validation, handling floats, or formatting output.
+
+Helped understand switch-case logic for multi-option currency conversion.
+
+            4. Step-by-Step Tutorials
+
+Guided setup in Visual Studio, including adding .c files and running code.
+
+Reduced confusion and accelerated project setup.
+
+             5. Confidence & Productivity
+
+Instant feedback and examples increased learning speed, avoiding long trial-and-error coding sessions.
 
 
 7. Common Issues & Fixes
